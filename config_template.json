@@ -1,0 +1,7 @@
+{
+    "InfluxUsername": "me",
+    "InfluxPassword": "mypass",
+    "InfluxHost": "https://localhost:8086",
+    "InfluxDatabase": "mydb",
+    "InfluxMeasurement": "open311"
+}
